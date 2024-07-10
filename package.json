@@ -8,6 +8,6 @@
   },
   "scripts": {
     "serve": "honkit serve",
-    "build": "honkit build"
+    "build": "honkit build . docs"
   }
 }
