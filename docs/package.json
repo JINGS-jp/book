@@ -4,10 +4,12 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "honkit": "^5.1.4"
+    "gitbook-plugin-hide-published-with": "^0.0.1",
+    "honkit": "^5.1.4",
+    "honkit-plugin-alertarea": "^0.1.0"
   },
   "scripts": {
     "serve": "honkit serve",
-    "build": "honkit build"
+    "build": "honkit build . docs"
   }
 }
