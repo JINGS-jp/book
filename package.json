@@ -10,7 +10,7 @@
     "honkit-plugin-alertarea": "^0.1.0"
   },
   "scripts": {
-    "serve": "honkit serve",
+    "serve": "honkit serve . docs",
     "build": "honkit build . docs"
   }
 }
